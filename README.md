@@ -6,9 +6,18 @@
 </p>
 
 -----------------------------------------------------------------------
-About :
+# About :
 
-Implementation of Various OpenCV features in python
+The repository is about the implementation of various OpenCV features in python.
+OpenCV (Open Source Computer Vision Library) is an open source computer vision and machine learning software library.
+OpenCV-Python is the Python API of OpenCV. It combines the best qualities of OpenCV C++ API and Python language.
+
+OpenCV (Open Source Computer Vision Library) is an open-source computer vision and machine learning software library. OpenCV was built to provide a common infrastructure for computer vision applications and to accelerate the use of machine perception in commercial products. Right now, OpenCV supports a lot of algorithms related to Computer Vision and Machine Learning and it is expanding day-by-day.
+
+OpenCV (Open Source Computer Vision Library) is a library of programming functions mainly aimed at real-time computer vision.[1] Originally developed by Intel, it was later supported by Willow Garage then Itseez (which was later acquired by Intel[2]). The library is cross-platform and free for use under the open-source Apache 2 License.
+```
+Rebound the creative child within you and lets play with images , with the help of OpenCV.
+```
 
 ------------------------------------------------------------------------
 
@@ -96,14 +105,16 @@ You have made your contributions. Kudos to you!!
 
 
 --------------------------------------------------------------------------
-Contribution Guidelines
+# Contribution Guidelines
 
+We are here to allow collaboration in our project , inorder to lift/elevate each other through learning.Amazing!!😍😍
+Anyone and everyone is welcomed!😎
 
 
 
 
 ----------------------------------------------------------------------------
-License
+# License
 
 
 ----------------------------------------------------------------------------
