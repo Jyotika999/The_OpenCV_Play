@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img width="1000" height="300" src="assets/OPENCV">
+  <img width="800" height="300" src="https://github.com/Jyotika999/The_OpenCV_Play/blob/main/assets/OPENCV.png">
 </p>
 
 -----------------------------------------------------------------------
