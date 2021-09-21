@@ -83,11 +83,11 @@ You can type the command ```git add -A``` or alternatively ```git add -all``` fo
 At this point, you are ready to make a pull request to the original repository.
 
 You should navigate to your **forked** repository, and press the “Compare & pull request” button on the page. 
-<img src="assets\compare-and-pull-request.PNG">
+<img src="assets\compare-and-pull-request.png">
 
 GitHub will alert you that you can merge the two branches because there is no competing code. You should add in a **title**, a **comment**, and then press the **“Create pull request”** button.
 
-<img src="assets\open-a-pull-request.PNG">
+<img src="assets\open-a-pull-request.png">
 
 #### <ins> Step 6: CONGRATULATIONS :boom: :clap: :relaxed: </ins>
 You have made your contributions. Kudos to you!!
